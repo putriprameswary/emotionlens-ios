@@ -177,7 +177,3 @@ open EmotionLens.xcodeproj
 Made with ❤️ by **Riri Putri**
 
 ---
-
-<div align="center">
-<sub>Built for Apple Developer Academy Portfolio 🍎</sub>
-</div>
