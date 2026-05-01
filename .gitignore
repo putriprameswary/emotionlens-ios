@@ -1,0 +1,32 @@
+# Python env
+.venv/
+*/.venv/
+coreml_env/
+train/.venv/
+
+# Python cache
+__pycache__/
+
+# Dataset
+images/
+
+# Training outputs
+train/emotion_saved_model_dir/
+*.pkl
+*.pb
+*.png
+
+# Model files
+*.h5
+*.keras
+emotion_saved_model/
+
+# System
+.DS_Store
+
+# Logs
+*.log
+
+# Xcode
+DerivedData/
+build/
