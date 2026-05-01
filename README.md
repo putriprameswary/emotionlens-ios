@@ -1,4 +1,4 @@
-# 🎭 EmotionLens
+# 📱🙋🏻‍♀️ EmotionLens
 
 > *Let your iPhone understand how you feel — in real time.*
 
