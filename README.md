@@ -15,7 +15,7 @@
 
 **A real-time facial emotion recognition iOS app — fully on-device, powered by deep learning.**
 
-[📄 Full Technical Doc](./TECHNICAL_DOC.md) · [🧠 Training Code](./train) · [📦 Dataset (FER-2013)](https://www.kaggle.com/datasets/msambare/fer2013)
+[📄 Full Technical Doc](./TECHNICAL_DOC.md) · [🎥 Video Demo](./demo-app-emotionlens.mp4) · [🧠 Training Code](./train) · [📦 Dataset (FER-2013)](https://www.kaggle.com/datasets/msambare/fer2013)
 
 </div>
 
