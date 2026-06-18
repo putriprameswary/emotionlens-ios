@@ -1,6 +1,6 @@
 # 📱🙋🏻‍♀️ EmotionLens
 
-> *Let your iPhone understand how you feel — in real time.*
+> *Let your iPhone understand how you feel in real time.*
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-34C759?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-On--Device-blueviolet?style=for-the-badge)
 
-**A real-time facial emotion recognition iOS app — fully on-device, powered by deep learning.**
+**A real-time facial emotion recognition iOS app: fully on-device, powered by deep learning.**
 
 [📄 Full Technical Doc](./TECHNICAL_DOC.md) · [🎥 Video Demo](./demo-app-emotionlens.mp4) · [🧠 Training Code](./train) · [📦 Dataset (FER-2013)](https://www.kaggle.com/datasets/msambare/fer2013)
 
