@@ -23,7 +23,7 @@
 
 ## ✨ What Is This?
 
-**EmotionLens** is an end-to-end AI project — from training a deep learning model to deploying it into a real-time iOS application.
+**EmotionLens** is an end-to-end AI project from training a deep learning model to deploying it into a real-time iOS application.
 
 Point your camera at a face, and the app instantly predicts:
 
